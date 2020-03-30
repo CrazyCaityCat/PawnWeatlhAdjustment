@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Pawn Wealth Adjustment</name>
+    <author>CrazyCaityCat</author>
+    <supportedVersions>
+        <li>1.1</li>
+    </supportedVersions>
+	<url>https://ludeon.com/forums/index.php?topic=43449</url>
+    <description>Allows user to adjust the wealth value of a pawns skills.
+    
+    I mostly made this mod for a content creator but I am releasing it to any others who would like to use it. Adjusting the wealth value
+    that a pawns skills add to a colony will alter the raid value calculation that your storyteller uses to decide how powerful your next
+    raid will be.
+
+    </description>
+    <packageId>ccc.PawnWealthAdjustment.1</packageId>
+    <modDependencies>
+    <li>
+        <packageId>brrainz.harmony</packageId>
+        <displayName>Harmony</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+</modDependencies>
+</ModMetaData>
